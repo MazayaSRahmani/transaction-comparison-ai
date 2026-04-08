@@ -1,8 +1,8 @@
 streamlit
 pandas
+python-dotenv
 rapidfuzz
 reportlab
-google-generativeai==0.5.4
+google-generativeai
 openpyxl
 PyPDF2
-python-dotenv
